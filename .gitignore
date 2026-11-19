@@ -1,0 +1,2 @@
+# Machine-local settings (per-user, per-repo). Never commit.
+*.local.json
